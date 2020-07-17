@@ -1,5 +1,4 @@
 /node_modules
 .idea
-.docker/dbdata
 /storage/app/templates
 
